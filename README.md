@@ -185,7 +185,5 @@ conversational-emotion-recognizer/
 * **Enhanced Error Handling & User Feedback:** Implement more granular error reporting, visual loading indicators, and informative messages to improve the user experience during processing delays or issues.
 * **Multi-turn Context Management:** Improve the AI's ability to remember and reference previous parts of the conversation for more coherent and natural dialogues.
 
-## 🤝 Contributing
 
-Contributions, issues, and feature requests are warmly welcomed! If you'd like to contribute, please feel free to check the [issues page](https://github.com/your-username/conversational-emotion-recognizer/issues).
 
