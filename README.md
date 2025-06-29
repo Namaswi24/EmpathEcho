@@ -194,6 +194,3 @@ conversational-emotion-recognizer/
 
 Contributions, issues, and feature requests are warmly welcomed! If you'd like to contribute, please feel free to check the [issues page](https://github.com/your-username/conversational-emotion-recognizer/issues).
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
