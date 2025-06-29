@@ -1,10 +1,5 @@
 # 🗣️ Conversational Emotion Recognizer (Advanced AI Companion)
 
-[![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-blue?style=flat-square&logo=python)](https://www.python.org/)
-[![Flask](https://img.shields.io/badge/Flask-3.0.3-black?style=flat-square&logo=flask)](https://flask.palletsprojects.com/)
-[![WebSockets](https://img.shields.io/badge/WebSockets-Flask--Sock-lightgrey?style=flat-square)](https://flask-sock.readthedocs.io/en/latest/)
-[![Google Gemini API](https://img.shields.io/badge/Google-Gemini%20API-orange?style=flat-square&logo=google)](https://ai.google.dev/gemini-api)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## ✨ Project Overview
 
